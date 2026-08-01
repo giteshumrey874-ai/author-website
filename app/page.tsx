@@ -6,31 +6,31 @@ const books = [
     title: "The Invisible Cage",
     image: "/images/4.png",
     description: "A journey from overthinking to freedom.",
-    link: "https://www.amazon.com/dp/B0HC9Y9XN9",
+    link: "https://books2read.com/u/4X7zK9",
   },
   {
     title: "Rewire Your Brain",
     image: "/images/1.png",
     description: "Unlock the power of your mind.",
-    link: "https://www.amazon.com/dp/B0GRB7CRHG",
+    link: "https://books2read.com/u/49ErDY",
   },
   {
-    title: "The Psychology of Human Behaviour",s
+    title: "The Psychology of Human Behaviour",
     image: "/images/2.png",
     description: "Understand people like never before.",
-    link: "https://www.amazon.com/dp/B0GR9ZG6BW",
+    link: "https://books2read.com/u/31zExv",
   },
   {
     title: "Money: Blessing, Curse or Mirror",
     image: "/images/3.png",
     description: "Change the way you think about money.",
-    link: "https://www.amazon.com/dp/B0GRC7STZT",
+    link: "https://books2read.com/u/mewZAZ",
   },
 ];
 
 export default function Home() {
   return (
-    <main className="bg-[#090909] text-white">
+    <main className="bg-[#090909] text-white"> 
       
       {/* NAVBAR */}
 
