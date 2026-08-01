@@ -6,25 +6,25 @@ const books = [
     title: "The Invisible Cage",
     image: "/images/4.png",
     description: "A journey from overthinking to freedom.",
-    link: "https://www.amazon.com/dp/B0HC5Z2LGX",
+    link: "https://books2read.com/u/bMk6K8",
   },
   {
     title: "Rewire Your Brain",
     image: "/images/1.png",
     description: "Unlock the power of your mind.",
-    link: "https://books2read.com/u/bMk6K8",
+    link: "https://books2read.com/u/4A9nkJ",
   },
   {
     title: "The Psychology of Human Behaviour",
     image: "/images/2.png",
     description: "Understand people like never before.",
-    link: "https://www.amazon.com/dp/B0GR9ZG6BW",
+    link: "https://books2read.com/u/388BkZ",
   },
   {
     title: "Money: Blessing, Curse or Mirror",
     image: "/images/3.png",
     description: "Change the way you think about money.",
-    link: "https://www.amazon.com/dp/B0GRC7STZT",
+    link: "https://books2read.com/u/mdpr5l",
   },
 ];
 
