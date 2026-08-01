@@ -12,7 +12,7 @@ const books = [
     title: "Rewire Your Brain",
     image: "/images/1.png",
     description: "Unlock the power of your mind.",
-    link: "https://www.amazon.com/dp/B0GRB7CRHG",
+    link: "https://books2read.com/u/bMk6K8",
   },
   {
     title: "The Psychology of Human Behaviour",
@@ -31,7 +31,7 @@ const books = [
 export default function Home() {
   return (
     <main className="bg-[#090909] text-white">
-
+      
       {/* NAVBAR */}
 
       <nav className="fixed top-0 w-full z-50 backdrop-blur-lg bg-black/50 border-b border-zinc-800">
